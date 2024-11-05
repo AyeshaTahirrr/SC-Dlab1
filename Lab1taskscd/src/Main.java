@@ -6,6 +6,8 @@ public class Main {
 		        int num2 = 10;
 		        int sum = num1 + num2;
 		        System.out.println("The sum is: " + sum);
+		        int difference = num1 - num2;
+                        System.out.println("The difference is: " + difference);
 		    }
 		
 	}
